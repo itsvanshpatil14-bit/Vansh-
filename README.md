@@ -1,5 +1,3 @@
-# Vansh-
-Sy Bsc Forensic science 
 # Cloud IAM Entitlement Audit
 
 A lightweight static audit project for detecting common cloud configuration risks in Terraform/HCL and JSON files, including public storage settings, broad IAM permissions, and potential hard-coded credentials.
